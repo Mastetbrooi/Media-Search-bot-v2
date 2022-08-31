@@ -18,7 +18,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mastetbrooi/Media-Search-bot-v2)
 ### Hard Way
 
 ```bash
@@ -38,7 +38,7 @@ python3 bot.py
 Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) file
 
 
-## Thank You For [Subinps](https://t.me/Subinps_bot)
+## Thank You For [Subinps](https://t.me/Master_brooi)
 
 ## Variables
 
@@ -88,9 +88,9 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Jinn_007)
+Contact Me On [Telegram](https://t.me/Master_brooi)
 
-[Update Channel](https://t.me/ErrorXbotz)
+[Update Channel](https://(https://t.me/filmshomecome)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
